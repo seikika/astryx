@@ -1,0 +1,1163 @@
+{
+  "evidence": {},
+  "format": "seikika-report/v1",
+  "portal": "astryx",
+  "results": {
+    "docs": {
+      "doc:AGENTS.md": {
+        "level": "bronze"
+      },
+      "doc:CLAUDE.md": {
+        "level": "bronze"
+      },
+      "doc:CODE_OF_CONDUCT.md": {
+        "level": "bronze"
+      },
+      "doc:CONTRIBUTING.md": {
+        "level": "bronze"
+      },
+      "doc:IME_GUARD_DESIGN.md": {
+        "level": "bronze"
+      },
+      "doc:README.md": {
+        "level": "bronze"
+      },
+      "doc:SECURITY.md": {
+        "level": "bronze"
+      },
+      "doc:docs/README.md": {
+        "level": "bronze"
+      },
+      "doc:docs/architecture/README.md": {
+        "level": "bronze"
+      },
+      "doc:docs/architecture/cli-surface.md": {
+        "level": "bronze"
+      },
+      "doc:docs/architecture/component-import-boundaries.md": {
+        "level": "bronze"
+      },
+      "doc:docs/architecture/component-size-cascade.md": {
+        "level": "bronze"
+      },
+      "doc:docs/architecture/component-style-authoring.md": {
+        "level": "bronze"
+      },
+      "doc:docs/architecture/component-test-sufficiency.md": {
+        "level": "bronze"
+      },
+      "doc:docs/architecture/component-theming-surface.md": {
+        "level": "bronze"
+      },
+      "doc:docs/architecture/container-padding.md": {
+        "level": "bronze"
+      },
+      "doc:docs/architecture/icon-resolution-and-component-slots.md": {
+        "level": "bronze"
+      },
+      "doc:docs/architecture/interaction-modality.md": {
+        "level": "bronze"
+      },
+      "doc:docs/architecture/internationalization.md": {
+        "level": "bronze"
+      },
+      "doc:docs/architecture/knowledge-contracts.md": {
+        "level": "bronze"
+      },
+      "doc:docs/architecture/layer-runtime.md": {
+        "level": "bronze"
+      },
+      "doc:docs/architecture/list-windowing.md": {
+        "level": "bronze"
+      },
+      "doc:docs/architecture/press-feedback.md": {
+        "level": "bronze"
+      },
+      "doc:docs/architecture/public-component-api.md": {
+        "level": "bronze"
+      },
+      "doc:docs/architecture/react-component-runtime.md": {
+        "level": "bronze"
+      },
+      "doc:docs/architecture/rtl-audit-evidence.md": {
+        "level": "bronze"
+      },
+      "doc:docs/architecture/template-authoring.md": {
+        "level": "bronze"
+      },
+      "doc:docs/architecture/theme-application.md": {
+        "level": "bronze"
+      },
+      "doc:docs/architecture/theme-authoring-contract.md": {
+        "level": "bronze"
+      },
+      "doc:docs/architecture/theme-compilation.md": {
+        "level": "bronze"
+      },
+      "doc:docs/architecture/theme-tokens.md": {
+        "level": "bronze"
+      },
+      "doc:docs/contributing/README.md": {
+        "level": "bronze"
+      },
+      "doc:docs/contributing/api-conventions.md": {
+        "level": "bronze"
+      },
+      "doc:docs/contributing/cli-conventions.md": {
+        "level": "bronze"
+      },
+      "doc:docs/contributing/pull-requests.md": {
+        "level": "bronze"
+      },
+      "doc:docs/contributing/spec-writing.md": {
+        "level": "bronze"
+      },
+      "doc:docs/design/README.md": {
+        "level": "bronze"
+      },
+      "doc:docs/design/agentic-states.md": {
+        "level": "bronze"
+      },
+      "doc:docs/design/bidirectionality.md": {
+        "level": "bronze"
+      },
+      "doc:docs/design/color-emphasis.md": {
+        "level": "bronze"
+      },
+      "doc:docs/design/control-rhythm.md": {
+        "level": "bronze"
+      },
+      "doc:docs/design/elevation-hierarchy.md": {
+        "level": "bronze"
+      },
+      "doc:docs/design/iconography.md": {
+        "level": "bronze"
+      },
+      "doc:docs/design/mobile-typography.md": {
+        "level": "bronze"
+      },
+      "doc:docs/design/motion.md": {
+        "level": "bronze"
+      },
+      "doc:docs/design/ordered-collection-reordering.md": {
+        "level": "bronze"
+      },
+      "doc:docs/design/reduced-motion.md": {
+        "level": "bronze"
+      },
+      "doc:docs/design/shape-relationships.md": {
+        "level": "bronze"
+      },
+      "doc:docs/design/spatial-hierarchy.md": {
+        "level": "bronze"
+      },
+      "doc:docs/design/system-states.md": {
+        "level": "bronze"
+      },
+      "doc:docs/design/template-composition.md": {
+        "level": "bronze"
+      },
+      "doc:docs/design/typography-hierarchy.md": {
+        "level": "bronze"
+      },
+      "doc:docs/design/user-states.md": {
+        "level": "bronze"
+      },
+      "doc:docs/families/README.md": {
+        "level": "bronze"
+      },
+      "doc:docs/families/action-groups.md": {
+        "level": "bronze"
+      },
+      "doc:docs/families/buttons.md": {
+        "level": "bronze"
+      },
+      "doc:docs/families/input-fields.md": {
+        "level": "bronze"
+      },
+      "doc:docs/families/layout-primitives.md": {
+        "level": "bronze"
+      },
+      "doc:docs/families/layout-regions.md": {
+        "level": "bronze"
+      },
+      "doc:docs/families/navigation-destinations.md": {
+        "level": "bronze"
+      },
+      "doc:docs/families/overlay-dismissal.md": {
+        "level": "bronze"
+      },
+      "doc:docs/release.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-001/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-002/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-003/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-004/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-005/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-006/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-008/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-009/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-010/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-011/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-012/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-013/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-017/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-018/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-020/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-021/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-022/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-024/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-025/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-026/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-027/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-028/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-029/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-030/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-031/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-032/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-033/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-034/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-035/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-036/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-037-timer/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-038-layer-text-boundary/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-039/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-040-consumer-file-modification/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-041-consumer-docs-audience/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-042-cli-command-admission/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-043-input-presentation/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-046-docs-tree/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-047-navigable-output/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-048-build-recommendation/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-050-app-themes/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-051-discover-integration-manager/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-053-multi-selector-lookups/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-055-caller-rendered-trigger/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-056-search-prop-shape/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-057-row-actions/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-058-option-actions/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-059-layer-viewport-inset/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-061-document-surface-parity/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-062-richtext-lossless-markdown/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-064-richtext-markdown-plugins/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-066-theme-data-boundary/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-067-wall-time-resolution/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-071-styling-library-compat/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-075-owned-field-combobox/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-079-selector-trigger-hierarchy/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-080-package-stylesheets/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-081-global-mode/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-082-native-first-surfaces/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-083-result-order/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-084-icon-sets/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-085-focusable-disabled/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-086-status-announcements/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-087-icon-variants/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-089-styling-target/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-090-exit-motion/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-091-native-templates/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-092-incremental-search-results/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-093-native-component-guidelines/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-094-touch-presentations/motion-roles.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-094-touch-presentations/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-099-mobile-keyboard/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-100-release-velocity/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-102-typography-theme-owned/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-103-reorderable/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-105-animated-layout/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-106-richtext-document-affordances/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-107-public-gesture-hooks/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-108-theme-motion/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-109-clear-value/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-110-swizzle-output/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-111-calendar-systems/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-112-react-native-foundation/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-114-bases/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-115-chart-value-format/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-116-popover-anchoring/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-117-validation-timing/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-118-rejected-entry-feedback/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-119-tour/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-121-mcp-server/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-140-react-native-platform-code/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/AST-142-react-native-commands/spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/README.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/AlertDialog/AlertDialog.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/AppShell/AppShell.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/AspectRatio/AspectRatio.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Avatar/Avatar.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Avatar/Avatar.swift.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Avatar/AvatarStatusDot.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Avatar/AvatarStatusDot.swift.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/AvatarGroup/AvatarGroup.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/AvatarGroup/AvatarGroupOverflow.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Badge/Badge.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Banner/Banner.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Blockquote/Blockquote.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/BottomSheet/BottomSheet.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/BottomSheet/BottomSheetSwitcher.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Breadcrumbs/BreadcrumbItem.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Breadcrumbs/Breadcrumbs.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Button/Button.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Button/Button.swift.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/ButtonGroup/ButtonGroup.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Calendar/Calendar.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Card/Card.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Carousel/Carousel.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Center/Center.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Chart/Chart.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/ChartAxis/ChartAxis.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/ChartGrid/ChartGrid.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/ChartLegend/ChartLegend.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/ChartSwatch/ChartSwatch.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/ChartTooltip/ChartTooltip.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Chat/ChatComposer.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Chat/ChatComposerDrawer.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Chat/ChatComposerInput.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Chat/ChatComposerTokenElement.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Chat/ChatDictationButton.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Chat/ChatLayout.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Chat/ChatLayoutScrollButton.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Chat/ChatMessage.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Chat/ChatMessageBubble.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Chat/ChatMessageList.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Chat/ChatMessageMetadata.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Chat/ChatSendButton.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Chat/ChatSystemMessage.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Chat/ChatTokenizedText.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Chat/ChatToolCalls.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Chat/ChatVirtualizer.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/CheckboxInput/CheckboxInput.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/CheckboxList/CheckboxList.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/CheckboxList/CheckboxListItem.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Citation/Citation.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/ClickableCard/ClickableCard.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Code/Code.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/CodeBlock/CodeBlock.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Collapsible/Collapsible.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Collapsible/CollapsibleGroup.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/CommandPalette/CommandPalette.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/CommandPalette/CommandPaletteEmpty.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/CommandPalette/CommandPaletteFooter.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/CommandPalette/CommandPaletteGroup.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/CommandPalette/CommandPaletteInput.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/CommandPalette/CommandPaletteItem.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/CommandPalette/CommandPaletteList.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/CommentPin/CommentPin.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/ComplexSelector/ComplexSelector.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/ContextMenu/ContextMenu.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/ContextMenu/ContextMenuItem.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/DateInput/DateInput.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/DateRangeInput/DateRangeInput.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/DateTimeInput/DateTimeInput.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Dialog/Dialog.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Dialog/modules/DialogHeader.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Divider/Divider.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Drawer/Drawer.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Drawer/DrawerHeader.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/DropdownMenu/DropdownMenu.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/DropdownMenu/DropdownMenuCheckboxItem.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/DropdownMenu/DropdownMenuDivider.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/DropdownMenu/DropdownMenuGroup.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/DropdownMenu/DropdownMenuItem.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/DropdownMenu/DropdownMenuRadioGroup.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/DropdownMenu/DropdownMenuRadioItem.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/DropdownMenu/DropdownMenuSubMenu.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/DropdownMenu/modules/useMenuHover.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/DropdownMenu/modules/useMenuPress.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/EmptyState/EmptyState.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Field/Field.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Field/FieldLabel.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/FieldStatus/FieldStatus.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/FileInput/FileInput.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/FormLayout/FormLayout.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Grid/Grid.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Grid/GridSpan.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Heading/Heading.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/HoverCard/HoverCard.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Icon/Icon.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Icon/Icon.swift.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/IconButton/IconButton.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Indicator/CheckIndicator.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Indicator/CheckboxIndicator.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Indicator/Indicator.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/InfoTip/InfoTip.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/InputGroup/InputGroup.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/InputGroup/InputGroupText.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Item/Item.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Item/Item.swift.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Kbd/Kbd.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Layer/LayerProvider.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Layout/Layout.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Layout/LayoutContent.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Layout/LayoutFooter.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Layout/LayoutHeader.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Layout/LayoutPanel.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Lightbox/Lightbox.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Link/Link.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Link/LinkProvider.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/List/List.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/List/ListItem.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/List/ListItem.swift.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Markdown/Markdown.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Markdown/modules/headingLinks.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Markdown/modules/remark.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Markdown/modules/softBreaks.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Markdown/modules/sourceLines.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/MediaPlayer/MediaPlayer.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/MetadataList/MetadataList.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/MetadataList/MetadataListItem.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/MobileNav/MobileNav.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/MoreMenu/MoreMenu.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/MultiSelector/MultiSelector.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/NavIcon/NavIcon.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/NavMenu/NavHeadingMenu.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/NumberInput/NumberInput.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Outline/Outline.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Outline/modules/parseOutlineFromMarkdown.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/OverflowList/OverflowList.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/OverflowList/modules/useOverflow.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Overlay/Overlay.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Pagination/Pagination.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Popover/Popover.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/PowerSearch/PowerSearch.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/ProgressBar/ProgressBar.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/RadioList/RadioList.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/RadioList/RadioListItem.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Resizable/Resizable.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/RichTextEditorToolbar/RichTextEditorToolbar.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Schedule/Schedule.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/ScrollableArea/ScrollableArea.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/ScrollableArea/modules/useScrollableArea.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Section/Section.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/SegmentedControl/SegmentedControl.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/SegmentedControl/SegmentedControlItem.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/SelectableCard/SelectableCard.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Selector/Selector.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Selector/SelectorOption.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/SideNav/SideNav.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/SideNav/SideNavCollapseButton.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/SideNav/SideNavHeading.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/SideNav/SideNavItem.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/SideNav/SideNavSection.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Skeleton/Skeleton.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Slider/Slider.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Spinner/Spinner.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Stack/Stack.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/StatusDot/StatusDot.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Stepper/Step.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Stepper/Stepper.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Switch/Switch.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/TabBar/TabBar.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/TabList/Tab.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/TabList/TabList.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/TabList/TabMenu.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Table/Table.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Table/TableBody.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Table/TableCell.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Table/TableFooter.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Table/TableHeader.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Table/TableHeaderCell.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Table/TableRow.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Table/TableSelectionToolbar.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Table/plugins/activation/useTableActivation.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Table/plugins/columnResize/useTableColumnResize.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Table/plugins/infiniteScroll/useTableInfiniteScroll.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Table/plugins/rowExpansion/useTableRowExpansion.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Table/plugins/rowStatus/useTableRowStatus.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Table/plugins/tree/useTableTreeData.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Table/plugins/virtualization/useTableColumnsVirtualization.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Table/plugins/virtualization/useTableRowsVirtualization.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Text/Text.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/TextArea/TextArea.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/TextInput/TextInput.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/TextInput/TextInput.swift.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Thumbnail/Thumbnail.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Thumbnail/Thumbnail.swift.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/TimeInput/TimeInput.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Timer/Timer.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Timestamp/Timestamp.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Toast/Toast.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/ToggleButton/ToggleButton.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/ToggleButton/ToggleButtonGroup.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Token/Token.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Tokenizer/Tokenizer.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Toolbar/Toolbar.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Tooltip/Tooltip.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/TopNav/TopNav.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/TopNav/TopNavHeading.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/TopNav/TopNavItem.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/TopNav/TopNavMegaMenu.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/TopNav/TopNavMegaMenuFeaturedCard.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/TopNav/TopNavMegaMenuItem.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/TopNav/TopNavMenu.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Tour/Tour.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/TreeList/TreeList.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Typeahead/BaseTypeahead.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Typeahead/Typeahead.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/Typeahead/TypeaheadItem.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/VisuallyHidden/VisuallyHidden.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/i18n/InternationalizationProvider.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/theme/MediaTheme.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/theme/SyntaxTheme.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/specs/components/theme/Theme.spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/templates/knowledge/architecture.md": {
+        "level": "bronze"
+      },
+      "doc:docs/templates/knowledge/component-spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/templates/knowledge/design-spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/templates/knowledge/family-contract.md": {
+        "level": "bronze"
+      },
+      "doc:docs/templates/knowledge/implementation-plan.md": {
+        "level": "bronze"
+      },
+      "doc:docs/templates/knowledge/module-spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/templates/knowledge/system-spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/templates/knowledge/theme-spec.md": {
+        "level": "bronze"
+      },
+      "doc:docs/themes/README.md": {
+        "level": "bronze"
+      }
+    },
+    "repo-hygiene": {
+      "repository:seikika/astryx": {
+        "level": "silver"
+      }
+    }
+  }
+}
